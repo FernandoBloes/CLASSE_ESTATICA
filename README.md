@@ -13,13 +13,17 @@ celsiusParaFahrenheit(double celsius): converte uma temperatura em Celsius para 
 
 jdk - 17.0.11_windows Eclipse IDE for Java Developers - 2024 -12
 
-Diagrama UML
-
 Dar exemplos 🔧 1. Instalar o download do JDK 17 2. Instalar o Elipse IDE for Java Developers 3. Abrir o Eclipse 4. Ir até window -> Preferences -> Java -> Installed JREs 5. Adicionar JDK 17a lista de ambientes JRE
 
 Explicação de como deve ser utilizado o projeto 🛠️ Foi utilizado uma classe "ConversorUnidades" para realizar conversões de temperatura (Celsius para Fahrenheit), distância (quilômetros para milhas) e peso (gramas para libras), e uma classe principal que será usada para executar o programa.
 
 Diagrama UML:
+
+
+
+
+
+![DIAGRAMA UML](https://github.com/user-attachments/assets/d48677de-44d5-4ba2-85d5-8c4da634b980)
 
 IDE Eclipse 📌 Versão Eclipse IDE for Java Developers - 2024-12
 
